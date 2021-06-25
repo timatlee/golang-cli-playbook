@@ -16,7 +16,7 @@
 	"GOENV": "/home/vscode/.config/go/env",
 	"GOEXE": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build2105512069=/tmp/go-build -gno-record-gcc-switches",
+	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build431091152=/tmp/go-build -gno-record-gcc-switches",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "linux",
 	"GOINSECURE": "",
